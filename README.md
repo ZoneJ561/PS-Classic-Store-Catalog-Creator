@@ -34,6 +34,8 @@ PS Classic Store Catalog Creator prepares catalog files without hand-writing TSV
 - Add a PS1 CD box art URL from a LaunchBox game page or a direct image URL.
 - Load an optional Archive.org `cookies.txt` for items your account can access.
 
+For PS1 disc games, **Autofill Selected Metadata** matches exact normalized titles against [OpenVGDB](https://github.com/OpenVGDB/OpenVGDB), [GameDB-PSX](https://github.com/niemasd/GameDB-PSX), and the [LaunchBox Games Database](https://gamesdb.launchbox-app.com/). It fills missing year, genre, developer, and publisher while preserving your existing edits and filename region. The first batch may download about 120 MB of metadata, mostly LaunchBox; later batches use the local cache. It does not download game archives.
+
 ### PS Classic Categories
 
 - **PS1 Games** and **NPS PSX** have separate TSV exports.
