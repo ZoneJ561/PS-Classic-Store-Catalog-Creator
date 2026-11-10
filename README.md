@@ -116,7 +116,3 @@ For an Archive.org item that requires your account, sign in to Archive.org in a 
 ## Important Note
 
 Use PS Classic Store Catalog Creator only with content that you own, created, or have permission to download and distribute. The creator is independent of Sony, Archive.org, NoPayStation, and AutoBleem.
-
-## About This Repository
-
-This public repository contains the logo, documentation, and installer releases. The application source and build workflow are maintained in a separate private repository. PS Classic Store Catalog Creator is independent of PKGI Catalog Creator for PSP.
